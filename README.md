@@ -2,10 +2,12 @@
 <!-- slug: contact-list-client -->
 <!-- title: Contact List Client -->
 <!-- description: Vue.js contact management application with RESTful API integration -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-contact-list -->
+<!-- image: https://github.com/user-attachments/assets/738bed9a-a14d-4d7f-9b47-e14bf10c1c2e -->
 <!-- tags: vue, javascript, vite, contact-management, rest-api -->
 
 # Contact List Client
+
+<img width="1536" height="1024" alt="contact-list-client" src="https://github.com/user-attachments/assets/738bed9a-a14d-4d7f-9b47-e14bf10c1c2e" />
 
 A modern contact management application built with Vue.js and Vite, featuring a clean interface for managing personal or professional contacts. This client-side application integrates seamlessly with a RESTful API backend for complete CRUD operations.
 
